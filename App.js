@@ -30,7 +30,7 @@ export default function App() {
 
       {/* Today's Tasks */}
       <View style={styles.tasksWrapper}>
-        <Text style={styles.sectionTitle}>Today's List</Text>
+        <Text style={styles.sectionTitle}>Today's CheckList</Text>
         <View style={styles.items}>
           {/* This is where the tasks will go! */}
           {
